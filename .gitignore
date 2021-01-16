@@ -46,3 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.class
+
+#my
+/.settings/
+/bin/
+.classpath
+.project
+.gitignore
+/*.gitignore
